@@ -1,4 +1,4 @@
-# Welcome
+# Welcome stranger to Neverland
 
 This is a repository made to explore different functionalities in group projects
 
