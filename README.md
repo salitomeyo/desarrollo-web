@@ -37,7 +37,15 @@ Because this project does not contain any kind of code most of the VSCode Extens
 
 ## Setup .gitconfig
 
-On the other hand before usign this i will setup the global git enviroment of my computer to follow some restrictions 
+On the other hand before usign this i will setup the global git enviroment of my computer to follow certain configurations
+
+Remember to set the git name and email in the global config file we could use 
+
+```
+git config --global user.name "Name Lastname"
+git config --global user.email "email@email.com"
+```
+
 
 First of all i always want the base branch in a git repository to be called main but i downloaded git without making this restriction, so i will use the following command instead
 
